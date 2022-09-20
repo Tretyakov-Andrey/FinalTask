@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\bin\Debug\net6.0\FT-C-sharp.exe
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\bin\Debug\net6.0\FT-C-sharp.deps.json
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\bin\Debug\net6.0\FT-C-sharp.runtimeconfig.json
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\bin\Debug\net6.0\FT-C-sharp.dll
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\bin\Debug\net6.0\FT-C-sharp.pdb
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.dll
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\refint\FT-C-sharp.dll
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.pdb
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\FT-C-sharp.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Итоговая работа GB\FinalTask\FT-C-sharp\obj\Debug\net6.0\ref\FT-C-sharp.dll
