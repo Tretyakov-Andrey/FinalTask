@@ -5,6 +5,7 @@
 
 string[] GetNumbers(int size)
 {
+    System.Console.WriteLine("Ishodniy massiv: ");
     string[] numbers = new string[size];
     for (int i = 0; i < size; i++)
     {
@@ -17,6 +18,7 @@ string[] GetNumbers(int size)
 string[] Result(string[] numbers)
 {
     System.Console.WriteLine();
+    System.Console.WriteLine("Result: ");
     int count = 0;
     for (int j = 0; j < numbers.Length; j++)
     {
